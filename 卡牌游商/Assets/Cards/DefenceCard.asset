@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: DefenceCard
+  m_EditorClassIdentifier: Assembly-CSharp::SelfCard
+  name: "\u62B5\u6321"
+  cardType: 1
+  cDtime: 2
+  image: {fileID: 21300000, guid: 71423d5d2b411204aa99af8aaa4ae3d4, type: 3}
